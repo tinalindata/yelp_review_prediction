@@ -37,8 +37,7 @@ In terms of how to handle noisy data, I imported stopwords from wordcloud to exc
 
 When it comes to the workflow of my source code, firstly, I imported packages needed for this project and then read the csv file into review dataframe. Then I chose the first 300,000 review texts and filter the data to get only reviews whose star>3. Then I used wordcloud and a minion image to generate a colorful minion shape which shows the most popular words in the minion.
 
-As for the problems I encounter, word cloud was not taught in the class. So I watched several tutorials online. There is an example online using the picture of Alice in Wonderland (https://www.kaggle.com/poonaml/bidirectional-lstm-spacy-on-
-yelp-reviews). I learned from it and created with my own example of the minion.
+As for the problems I encounter, word cloud was not taught in the class. So I watched several tutorials online. There is an example online using the picture of Alice in Wonderland (https://www.kaggle.com/poonaml/bidirectional-lstm-spacy-on-yelp-reviews). I learned from it and created with my own example of the minion.
 
 Question 2
 
