@@ -34,6 +34,6 @@ run faster. The time periods the data covered are from 2004-07-22 to 2017-12-11.
 &nbsp;
 ## User Guide
 1. Dowload yelp review csv file from (https://www.kaggle.com/yelp-dataset/yelp-dataset/data).
-2. Run yelp_review_prediction.py
+2. Run yelp_review_prediction.ipynb
 
 
