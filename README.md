@@ -1,11 +1,11 @@
 # Yelp Review Predictions
 
-Tina Lin &bull; 12/2017
+###### Tina Lin &bull; 12/2017
 
 &nbsp;
 ## Motivation
 
-I chose yelp review dataset because I am a foodie and I find yelp reviews to be very useful. I would like to know whether there is a pattern in users’ reviews.
+I chose yelp review dataset because I am a foodie and I have found yelp reviews to be very useful. I would like to know whether there is a pattern in users’ reviews.
 The four specific questions that I decided to explore for this dataset are:
 1. What are the most popular words users have written in positive reviews?
 2. What are the ten most frequent part of speech tags in the review text?
